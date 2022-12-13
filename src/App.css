@@ -1,0 +1,7 @@
+p {
+  @apply text-red-400;
+}
+
+input {
+  @apply block box-border w-full rounded border border-solid border-black text-sm;
+}
